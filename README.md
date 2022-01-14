@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Azer 👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-energon7777@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:energon7777@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-azer@simple.az-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:azer@simple.az "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Azer%20Mammadov-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/energon7?locale=en_US "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@Azer%20Mammadov-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/energon7 "Contact on Telegram")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/energon7 "Connect on Facebook")
