@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Azer 👨🏻‍💻
+## Hey there 👋 I'm Azer 👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-azer@simple.az-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:azer@simple.az "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Azer%20Mammadov-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/energon7?locale=en_US "Connect on LinkedIn")
